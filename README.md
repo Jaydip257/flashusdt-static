@@ -1,0 +1,2 @@
+# FlashUSDT Static Hosting
+
